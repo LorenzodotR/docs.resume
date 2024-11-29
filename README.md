@@ -1,7 +1,7 @@
 # **LORENZO GREI RIBEIRO**
 
-Belo Horizonte, Minas Gerais | **Phone:** (031) 9 7151-1181  
-[**lorenzog.ribeiro2@gmail.com**](mailto:lorenzog.ribeiro2@gmail.com) | [**linkedin.com/in/lorenzog-ribeiro/**](https://www.linkedin.com/in/lorenzog-ribeiro/) | [**GitHub**](https://github.com/LorenzodotR) **| [Resume](https://resume-sigma-ruby.vercel.app/)**
+Belo Horizonte, Minas Gerais || **Phone:** (031) 9 7151-1181  
+[**lorenzog.ribeiro2@gmail.com**](mailto:lorenzog.ribeiro2@gmail.com) || [**linkedin.com/in/lorenzog-ribeiro/**](https://www.linkedin.com/in/lorenzog-ribeiro/) || [**GitHub**](https://github.com/LorenzodotR) || [**Resume**](https://resume-sigma-ruby.vercel.app/)
 
 **OBJECTIVE**
 
